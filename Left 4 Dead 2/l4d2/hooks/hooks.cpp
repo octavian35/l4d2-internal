@@ -9,7 +9,6 @@
 #include "../game_utilities/game_utilities.h"
 #include "../pattern_list/pattern_list.h"
 #include "../ui/ui.h"
-#include "../tickbase_manager/tickbase_manager.h"
 
 #include "../bonus_features/miscellaneous/miscellaneous.h"
 #include "../bonus_features/triggerbot/triggerbot.h"
